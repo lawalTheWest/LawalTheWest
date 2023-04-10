@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is ##Lawal Tajudeen.
+My name is ###Lawal Tajudeen.
 
 A Software Engineer
 
