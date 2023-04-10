@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name Lawal Tajudeen
+My name is ##Lawal Tajudeen.
+
 A Software Engineer
 
 # 📊 GitHub Stats:
@@ -15,6 +16,7 @@ Prior to joining ALX, I have worked as a front-end engineer, where I have succes
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lawalTheWest&theme=dark&hide_border=false)<br/>
 
 Skills:
+
 Leadership: a true leader with the ability to manage and work in team as well as individually.
 HTML: Proficient in creating and structuring web content using HTML.
 CSS: Skilled in designing responsive and visually appealing user interfaces using CSS.
@@ -23,6 +25,9 @@ C: Proficient in C programming language for software development.
 Data Analysis: Skilled in analyzing data and extracting insights using various data analysis tools and techniques.
 Technical Writing: Proficient in writing technical documentation and reports.
 Report and Academic Writing: Experienced in writing comprehensive reports and academic papers.
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lawalTheWest&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 Passion for Learning:
 I have a strong passion for staying up-to-date with the latest advancements in the tech industry. 
@@ -45,6 +50,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lawalTheWest&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
