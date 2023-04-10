@@ -1,5 +1,4 @@
 ### Hi there 👋
-Bio Data: Lawal Tajudeen Ogunsola
 
 Name: Lawal Tajudeen Ogunsola
 Occupation: Software Engineer
