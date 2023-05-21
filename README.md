@@ -5,16 +5,18 @@ My name is ###Lawal Tajudeen.
 A Software Engineer
 
 # 📊 GitHub Stats:
+<!--
 ![]( https: //github-readme-stats.vercel. app/api?username=lawalTheWest &theme=dark&hide_border=false&include_all_commits= false&count_private=false)<br/>
-
+-->
 I'm a skilled software engineer (frontend and budding backend Engineer) with a passion for creating innovative solutions using cutting-edge technologies. 
 With a strong foundation in HTML, CSS, JavaScript, C, and data analysis, I am experienced in front-end engineering and have honed my skills in this area for over one year.
 I am currently enrolled in the ALX Software Engineering Professional Course, where I have been gaining in-depth knowledge and practical experience in software development. 
 Prior to joining ALX, I have worked as a front-end engineer, where I have successfully contributed to the development of user-friendly and visually appealing websites and web applications.
 
 # 📊 GitHub Stats:
+<!--
 ![](https: //github -readme-streak-stats. herokuapp.com/? user=lawalTheWest  &theme=dark&hide_border=false)<br/>
-
+-->
 Skills:
 
 Leadership: a true leader with the ability to manage and work in team as well as individually.
@@ -27,8 +29,9 @@ Technical Writing: Proficient in writing technical documentation and reports.
 Report and Academic Writing: Experienced in writing comprehensive reports and academic papers.
 
 # 📊 GitHub Stats:
+<!--
 ![](https:// github-readme-stats.vercel. app/api/top-langs/?username= lawalTheWest &theme=dark&hide_border=fals e&include_all_commits=false&count_private=false&layout= compact)
-
+-->
 Passion for Learning:
 I have a strong passion for staying up-to-date with the latest advancements in the tech industry. 
 I am constantly engaged in research and self-learning to expand my skill set and stay ahead in the ever-evolving field of software engineering.
