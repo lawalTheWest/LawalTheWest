@@ -1,6 +1,5 @@
-<h1>Hi there! 👋</h1>
-
-My name is ###Lawal Tajudeen.
+<h1>Hi! 👋</h1>
+## I am Lawal Tajudeen.
 
 A Software Engineer
 
@@ -10,7 +9,7 @@ A Software Engineer
 <!--
 ![]( https: //github-readme-stats.vercel. app/api?username=lawalTheWest &theme=dark&hide_border=false&include_all_commits= false&count_private=false)<br/>
 -->
-I'm a skilled software engineer (frontend and budding backend Engineer) with a passion for creating innovative solutions using cutting-edge technologies. 
+I'm a skilled software engineer with a passion for creating innovative solutions using cutting-edge technologies. 
 
 I am currently enrolled in the ALX Software Engineering Professional Course, where I have been gaining in-depth knowledge and practical experience in software development. 
 
