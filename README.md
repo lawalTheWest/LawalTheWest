@@ -11,7 +11,7 @@ A Software Engineer
 -->
 I'm a skilled software engineer with a passion for creating innovative solutions using cutting-edge technologies. 
 
-I am currently enrolled in the ALX Software Engineering Professional Course, where I have been gaining in-depth knowledge and practical experience in software development. 
+I am currently enrolled in the ALX Software Engineering Professional Course, where I have been gaining in-depth knowledge and practical experience in software development (Full stack). 
 
 
 # 📊 GitHub Stats:
