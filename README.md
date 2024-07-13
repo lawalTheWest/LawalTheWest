@@ -11,17 +11,15 @@ A Software Engineer
 
 I'm a skilled software engineer with a passion for creating innovative solutions using cutting-edge technologies. 
 
--->
+
 # 📊 GitHub Stats:
 ## :fire: My GitHub Statistics 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawalTheWest&layout=compact&theme=vision-friendly-dark&align="left"&height='70px')
 
-<!--
-![](https: //github -readme-streak-stats. herokuapp.com/? user=lawalTheWest  &theme=dark&hide_border=false)<br/>
--->
 
-<!--
+![](https: //github -readme-streak-stats. herokuapp.com/? user=lawalTheWest  &theme=dark&hide_border=false)<br/>
+
 # 📊 GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=lawalTheWest&color=blue)
 
