@@ -3,14 +3,15 @@
 
 A Software Engineer
 
+<!--
 # 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lawalTheWest&theme=vision-friendly-dark&height='70px')](https://git.io/streak-stats)
 
-<!--
 ![]( https: //github-readme-stats.vercel. app/api?username=lawalTheWest &theme=dark&hide_border=false&include_all_commits= false&count_private=false)<br/>
--->
+
 I'm a skilled software engineer with a passion for creating innovative solutions using cutting-edge technologies. 
 
+-->
 # 📊 GitHub Stats:
 ## :fire: My GitHub Statistics 
 
@@ -20,10 +21,10 @@ I'm a skilled software engineer with a passion for creating innovative solutions
 ![](https: //github -readme-streak-stats. herokuapp.com/? user=lawalTheWest  &theme=dark&hide_border=false)<br/>
 -->
 
-
+<!--
 # 📊 GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=lawalTheWest&color=blue)
-<!--
+
 ![](https:// github-readme-stats.vercel. app/api/top-langs/?username= lawalTheWest &theme=dark&hide_border=fals e&include_all_commits=false&count_private=false&layout= compact)
 -->
 Passion for Learning:
