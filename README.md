@@ -1,9 +1,7 @@
 # Hi! 👋
-## I am Lawal Tajudeen.
 
-A Software Engineer
+Welcome back Viewer!
 
-<!--
 # 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lawalTheWest&theme=vision-friendly-dark&height='70px')](https://git.io/streak-stats)
 
@@ -24,7 +22,8 @@ I'm a skilled software engineer with a passion for creating innovative solutions
 ![](https://komarev.com/ghpvc/?username=lawalTheWest&color=blue)
 
 ![](https:// github-readme-stats.vercel. app/api/top-langs/?username= lawalTheWest &theme=dark&hide_border=fals e&include_all_commits=false&count_private=false&layout= compact)
--->
+---
+
 Passion for Learning:
 I have a strong passion for staying up-to-date with the latest advancements in the tech industry. 
 I am constantly engaged in research and self-learning to expand my skill set and stay ahead in the ever-evolving field of software engineering.
