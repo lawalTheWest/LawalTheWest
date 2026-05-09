@@ -1,7 +1,7 @@
 # Hi! 👋
 
 Welcome back Viewer!
-
+<!--
 # 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lawalTheWest&theme=vision-friendly-dark&height='70px')](https://git.io/streak-stats)
 <!--
