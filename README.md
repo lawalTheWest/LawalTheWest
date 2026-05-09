@@ -1,48 +1,33 @@
-# Hi! 👋
+# Hi!
 
 Welcome back Viewer!
 <!--
 # 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lawalTheWest&theme=vision-friendly-dark&height='70px')](https://git.io/streak-stats)
-<!--
-![]( https: //github-readme-stats.vercel. app/api?username=lawalTheWest &theme=dark&hide_border=false&include_all_commits= false&count_private=false)<br/>
-
-I'm a skilled software engineer with a passion for creating innovative solutions using cutting-edge technologies. 
-
-
-# 📊 GitHub Stats:
-## :fire: My GitHub Statistics 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawalTheWest&layout=compact&theme=vision-friendly-dark&align="left"&height='70px')
-
-
-![](https: //github -readme-streak-stats. herokuapp.com/? user=lawalTheWest  &theme=dark&hide_border=false)<br/>
-
-# 📊 GitHub Stats:
-![](https://komarev.com/ghpvc/?username=lawalTheWest&color=blue)
-
-![](https:// github-readme-stats.vercel. app/api/top-langs/?username= lawalTheWest &theme=dark&hide_border=fals e&include_all_commits=false&count_private=false&layout= compact)
----
 -->
+I am a:
+### Software Engineer | Data Management Enthusiast | Tech Entrepreneur | Healt-Tech Innovator | Agricultural-tech Innovator 
 
-Passion for Learning:
-I have a strong passion for staying up-to-date with the latest advancements in the tech industry. 
-I am constantly engaged in research and self-learning to expand my skill set and stay ahead in the ever-evolving field of software engineering.
+I build scalable digital solutions focused on real-world impact;
+- from conversation funnel platforms and RESTful APIs to data-driven agricultural systems. Passionate about transforming ideas into products that solve practical problems.
 
-As a dedicated and skilled software engineer, I am committed to delivering high-quality work and continuously improving my skills to contribute to the success of any project I am involved in. 
-With my solid foundation in software development and my passion for learning, I am well-equipped to excel in the tech industry and make a positive impacts.
-<!--
-**lawalTheWest/LawalTheWest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently exploring:
 
-Here are some ideas to get you started:
+* Full-stack web development
+* AI & predictive systems
+* Conversion funnel platforms
+* Health-tech and digital healthcare solutions
+* Cloud deployment & scalable architectures
+* Data cleaning and automation systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Founder-minded builder with experience leading teams, managing projects, and creating tech-driven solutions for businesses and communities.
 
+### Tech Stack:
+JavaScript • React • Vite • Node.js • Python • REST APIs • Git/GitHub • Data Management • Cloud Technologies
+
+## ALX Software Engineering Certified
+- Strong interest in product strategy, startup growth, and impactful innovation.
+
+> “Technology becomes powerful when it solves human problems.”
+
+### Open to collaborations, innovative projects, and growth opportunities.
