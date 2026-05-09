@@ -30,4 +30,4 @@ JavaScript • React • Vite • Node.js • Python • REST APIs • Git/GitHu
 
 > “Technology becomes powerful when it solves human problems.”
 
-### Open to collaborations, innovative projects, and growth opportunities.
+### I am open to collaborations, innovative projects, and growth opportunities.
